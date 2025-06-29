@@ -33,7 +33,7 @@ followed by Cessna 172 then Cessna 172N model.Considering Piper, model PA-28-140
 * Personal flights displayed the highest accident counts than Commercial airplanes.
 ![alternative](./images/purposeofflight.png)
 * Aircrafts with 1 number of engine showed the highest accident counts
-![alternative](./images/numberofengines.png)
+![alternative](./images/numberofengine.png)
 
 ## Link to Tableu dashboard
 * Tableu dashboard [View the dashboard](https://public.tableau.com/app/profile/meshack.mboya/viz/AviationAccidentsDataAnalysis_17511174111600/AicraftAccidentsAnalysis)
