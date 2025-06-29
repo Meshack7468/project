@@ -49,3 +49,14 @@ followed by Cessna 172 then Cessna 172N model.Considering Piper, model PA-28-140
 1. The company should invest in aircrafts with multi-engines i.e 2,3 engines as they show reduced accident rate from the analysis
 2. For commercial airlines the company should take note of Boeing 737, 737-200 models high fatality rate and prefer other Boeing models like 767 model 
 3. For personal airplanes the company should take note of Cessna 152 model highest accident counts and go with other models like Cessna 182, 150 that display reduced accident counts.
+
+****
+
+## Repository Structure
+```
+├── data
+├── images
+├── README.md
+├── presentation.pdf
+└── aircraft_analysis.ipynb
+```
